@@ -1,0 +1,72 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font: 75% georgia, sans-serif;
+    line-height: 1.88889;
+    color: #555753;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+header h1{
+    text-align: center;
+}
+
+p{
+    margin-top: 0;
+    text-align: justify;
+    color: black;
+}
+
+h3 {
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px;
+	margin-bottom: 0;
+	color: #7D775C;
+}
+
+div{
+    text-align: center;
+}
+
+article p{
+    text-align: center;
+}
+
+footer p{
+    text-align: center;
+    color: white;
+}
+
+#picTitle{
+    padding-bottom: 10px;
+    color: indigo;
+}
+
+.country{
+    background-color: teal;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.jazz{
+    background-color: green;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+.rock{
+    background-color: teal;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.pop{
+    background-color: green;
+    margin-left: 150px;
+    margin-right: 150px;
+}
